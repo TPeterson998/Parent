@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+html {
+    background-color: rgb(35, 233, 157);
+}
+
+body {
+    background-color: white;
+    height: 30em;
+    margin: 1em 5em 1em 5em;
+}
+
+header a {
+    margin-left: 3em;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+a:link,
+a:active {
+    color: rgb(255, 238, 0)
+}
+
+a:visited {
+    color: rgb(7, 252, 27)
+}
+
+a:hover {
+    background-color: black;
+    color: white;
+}
+
+
+h1 {
+    color: rgb(221, 29, 247);
+    font-size: 6em;
+    text-align: center;
+}
